@@ -22,3 +22,11 @@ Alongside the major reports, this repository includes smaller, targeted scripts 
 ## 🛠️ Technology Stack
 * **Languages:** SQL (MySQL, SQLite), Python (Basic data manipulation)
 * **Tools:** MySQL Workbench, DB Browser for SQLite, Git
+
+### 💾 Data Source
+## Spotify projects are based on a dataset downloaded from Kaggle
+Link - https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+
+## Employees projects are based on a well known "Employees" dataset
+Link - https://github.com/datacharmer/test_db
+
