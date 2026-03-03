@@ -1,4 +1,4 @@
-#📊 SQL Data Analysis Portfolio
+📊 SQL Data Analysis Portfolio
 
 Welcome to my data analysis portfolio. This repository contains a collection of my SQL projects, showcasing my ability to extract, manipulate, and analyze large datasets using relational databases (MySQL, SQLite).
 
